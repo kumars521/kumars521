@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kumars521
-- 👀 I’m interested in ...Fullstack web development
-- 🌱 I’m currently learning ...React.js
+- 👀 I'm working as an full stack web developer for past 8 years with (React.js, .net and MS-SQL)
 - 💞️ I’m looking to collaborate on ... web development 
 - 📫 How to reach me ... an drop a mail to "sunil.mn23@gmail.com" or tag me on facebook "Sunilkumar MN"
 
